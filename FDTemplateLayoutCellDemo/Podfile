@@ -1,0 +1,5 @@
+pod ‘SDWebImage’
+pod ‘Masonry’
+pod ‘UITableView+FDTemplateLayoutCell’
+pod ‘MJRefresh’
+pod ‘AFNetworking’
